@@ -1,5 +1,5 @@
 # Nina - German Advisor for Stellaris
-A stellaris mod adding a female German advisor voice using the new 1.8 modding features for advisors.
+A stellaris mod adding a female German advisor voice.
 
 ## English Description
 
@@ -36,3 +36,13 @@ La voix du conseiller n'est jamais automatiquement sélectionnée sur la base de
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1538972555]Grandpa Richard - Advisor Voice[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=686497648]Children of God Empire[/url]
 [/b]
+
+## Paradox Description
+
+This mod adds a female German voice in the advisor selection screen.
+
+The advisor contains 58 notification messages.
+The advisor is never automatically selected by empire authorities but it can be chosen at any time in the advisor configuration.
+
+
+Feel free to watch the YouTube sample! (https://www.youtube.com/watch?v=VxoZi53gyF4)
