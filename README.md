@@ -45,4 +45,4 @@ The advisor contains 58 notification messages.
 The advisor is never automatically selected by empire authorities but it can be chosen at any time in the advisor configuration.
 
 
-Feel free to watch the YouTube sample! (https://www.youtube.com/watch?v=VxoZi53gyF4)
+Feel free to watch the sample on YouTube: https://www.youtube.com/watch?v=VxoZi53gyF4

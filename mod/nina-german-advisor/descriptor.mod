@@ -1,5 +1,4 @@
 name="Nina - Female German Advisor Voice"
-archive="nina-german-advisor.zip"
 tags={
   "Sound"
   "Translation"
