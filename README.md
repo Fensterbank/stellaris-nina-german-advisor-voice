@@ -10,6 +10,7 @@ The advisor is never automatically selected by empire authorities but it can be 
 [b]Feel free to take a look at my other mods:
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1240613464]Nina - Female German Robotic Advisor Voice[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1538972555]Grandpa Richard - Advisor Voice[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2958561412]Voix énigmatique - French Advisor Voice[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=686497648]Children of God Empire[/url]
 [/b]
 
@@ -22,6 +23,7 @@ Die Beraterstimme wird niemals aufgrund der Autoritäten eines Volkes automatisc
 [b]Schaut doch auch meine andere Mods an:
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1240613464]Nina - Female German Robotic Advisor Voice[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1538972555]Grandpa Richard - Advisor Voice[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2958561412]Voix énigmatique - French Advisor Voice[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=686497648]Children of God Empire[/url]
 [/b]
 
@@ -34,6 +36,7 @@ La voix du conseiller n'est jamais automatiquement sélectionnée sur la base de
 [b]Voir aussi mes autres mods:
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1240613464]Nina - Female German Robotic Advisor Voice[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1538972555]Grandpa Richard - Advisor Voice[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2958561412]Voix énigmatique - French Advisor Voice[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=686497648]Children of God Empire[/url]
 [/b]
 
